@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>This is Jose's Calculator</title>
   </head>
   <body>
     <form method="get">
